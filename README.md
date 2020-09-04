@@ -1,2 +1,2 @@
 # cavateco_tools
-Portal for CaVaTeCo Training Materials
+CaVaTeCo Training Materials
